@@ -10,7 +10,7 @@
 
 # 关于漏洞原理
 
-有人已经分析了详见公众号文章 当 App 有了系统权限，真的可以为所欲为？ https://mp.weixin.qq.com/s/kiLvnJSDZpYRHI_XiUx9gg
+有人已经分析了详见公众号文章：当 App 有了系统权限，真的可以为所欲为？ https://mp.weixin.qq.com/s/kiLvnJSDZpYRHI_XiUx9gg
 
 以下内容摘至公众号
 
