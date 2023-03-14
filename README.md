@@ -1,4 +1,4 @@
-"# pinduoduo_backdoor_code" 
+# pinduoduo_backdoor_code
 
 这里存放拼多多事件的脱壳后的部分代码
 
