@@ -4,13 +4,15 @@
 
 项目根目录下的 .c 和 .h 文件为客户端里的manwe和nvwa加壳虚拟机so库文件的ida pro反编译导出，方便分析和写脱壳工具。
 
+漏洞的触发配置文件请前往我的 [pinduoduo_mango_preset_config_tools](https://github.com/poorjobless/pinduoduo_mango_preset_config_tools) 仓库提取
+
 # 免责声明
 
 注意：本仓库只是存放代码。若您使用本仓库代码作恶，那与本仓库所有者无关！
 
 # 关于漏洞原理
 
-有人已经分析了详见公众号文章：当 App 有了系统权限，真的可以为所欲为？ https://mp.weixin.qq.com/s/kiLvnJSDZpYRHI_XiUx9gg
+有人已经分析了详见公众号文章：[当 App 有了系统权限，真的可以为所欲为？](https://mp.weixin.qq.com/s/kiLvnJSDZpYRHI_XiUx9gg)
 
 以下内容摘至公众号
 
