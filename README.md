@@ -4,6 +4,8 @@
 
 项目根目录下的 .c 和 .h 文件为客户端里的manwe和nvwa加壳虚拟机so库文件的ida pro反编译导出，方便分析和写脱壳工具。
 
+拼多多在/data下的数据完整备份在这个仓库 https://github.com/elllusion/pinduoduo-data
+
 # 免责声明
 
 注意：本仓库只是存放代码。若您使用本仓库代码作恶，那与本仓库所有者无关！
